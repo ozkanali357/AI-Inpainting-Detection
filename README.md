@@ -22,7 +22,7 @@ This repository contains the solution for the AaltoES 2025 Computer Vision Hacka
 3. Train: `python train.py`
 4. Generate predictions: `python inference.py`
 
-Dataset: 28,101 training images with masks (256x256 RGB). Achieved **top-tier validation performance** during the hackathon, earning the "Best Start" nomination.
+Dataset: 28,101 training images with masks (256x256 RGB). Achieved **top-tier validation performance** during the hackathon, earning the "Best Start" nomination. (For first reaching 90% success rate in identifying AI-inpainted regions in images.)
 
 `requirements.txt` file:  
 ```
